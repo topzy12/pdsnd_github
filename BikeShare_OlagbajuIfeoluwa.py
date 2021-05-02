@@ -5,7 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-              
+
 #this method is used for getting a valid city name from the user
 def get_filters():
     """
@@ -54,7 +54,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#this method loads the data from the csv file based on users selection
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
