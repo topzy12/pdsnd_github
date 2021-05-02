@@ -15,5 +15,9 @@ new_york_city.csv 	#csv file containing data for New York City
 washington.csv		#csv file containing data for Washington	
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/
+
+https://www.digitalocean.com
+
+https://www.w3resource.com/
 
